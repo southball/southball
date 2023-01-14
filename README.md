@@ -1,2 +1,2 @@
-[![southball's GitHub stats](https://github-readme-stats.vercel.app/api?username=southball&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=southball&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- [Portfolio](https://southball.dev)
+- [Blog](https://blog.southball.dev)
